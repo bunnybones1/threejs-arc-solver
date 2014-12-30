@@ -1,0 +1,32 @@
+{
+  "name": "threejs-arc-solver",
+  "version": "1.0.0",
+  "description": "A arc solver that you can construct with 3 3D vectors. You can sample the resulting arc to create your own meshes or animations.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "loadandrunscripts": "^1.0.0",
+    "threejs-managed-view": "^2.4.0"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "threejs",
+    "arc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/threejs-arc-solver.git"
+  },
+  "homepage": "https://github.com/bunnybones1/threejs-arc-solver",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/threejs-arc-solver/issues"
+  }
+}
