@@ -10,6 +10,7 @@ function ArcSolver(p1, p2, p3) {
 	this.p1 = p1;
 	this.p2 = p2;
 	this.p3 = p3;
+	this.points = [p1, p2, p3];
 	this.center = new THREE.Vector3();
 	this.planeDirU = new THREE.Vector3();
 	this.planeDirV = new THREE.Vector3();
