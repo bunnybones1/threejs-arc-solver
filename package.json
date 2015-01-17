@@ -1,6 +1,6 @@
 {
   "name": "threejs-arc-solver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A arc solver that you can construct with 3 3D vectors. You can sample the resulting arc to create your own meshes or animations.",
   "main": "index.js",
   "license": "MIT",
